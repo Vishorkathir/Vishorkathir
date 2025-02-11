@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VISHOR G
-- 👀 I’m interested in web development and networking
+- 👀 I’m interested in web development 
 - 🌱 I’m currently learning B.E CSE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
